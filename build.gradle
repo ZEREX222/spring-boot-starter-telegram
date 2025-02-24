@@ -8,7 +8,7 @@ plugins {
     id 'io.spring.dependency-management' version '1.1.0'
 }
 
-group = 'io.github.drednote'
+group = 'ru.zerex222'
 version = findProperty("tag_version") ?: 'master-SNAPSHOT'
 sourceCompatibility = '17'
 
